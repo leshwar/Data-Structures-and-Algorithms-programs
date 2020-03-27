@@ -1,4 +1,4 @@
-# Data-Structures-and-Algorithms-programs
+# Data-Structures-and-Algorithms
 
 Data Structures and Algorithms programs such as Singly Linked Lists, Doubly Linked Lists, Queues, Stacks, Trees implemented as a part of __Data Structures and Algorithms__ course at __VIT University__.
 
